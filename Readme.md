@@ -10,12 +10,12 @@ cd word-counter
 
 Create a Docker Image:
 ``` bash
-docker build -t word_count_api:1.0 .
+docker build -t word_count:1.0 .
 ```
 
 Run the Docker Container:
 ```bash
-docker run -p 8000:5000 word_count_api:1.0 
+docker run -p 8000:5000 word_count:1.0 
 ```
 ### Usage
 Run the API server:
