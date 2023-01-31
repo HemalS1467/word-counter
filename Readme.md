@@ -4,7 +4,7 @@ A REST API for counting the repetition of each word (alphanumeric), the total nu
 
 Change into the project directory:
 ``` bash
-cd word-counter-api
+cd word-counter
 
 ```
 
